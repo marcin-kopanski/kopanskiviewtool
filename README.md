@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+KopanskiViewTool::Renderer.copyright "Marcin Kopański", "All rights reserved"
+```
 
 ## Development
 
